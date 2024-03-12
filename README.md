@@ -18,3 +18,6 @@
 
 ![Current conditions and forecast of the weather](./Assets/screenshots/weatherConditions.png)
 
+link to github repository : https://github.com/Rubal103/Weather-Application-Module-6
+
+link to live page: https://rubal103.github.io/Weather-Application-Module-6/
